@@ -1,0 +1,18 @@
+//Symbol Name		Page Address
+//----------------	------------
+//	AGAIN                   3000
+//	Bloop                   3031
+//	CONT                    3013
+//	CONT1                   302C
+//	DAWG                    3069
+//	EXIT                    303D
+//	GETFULL                 3021
+//	GETNUM                  300C
+//	GETNX                   3005
+//	GETZ                    3018
+//	INPUT                   3042
+//	NEWL                    3026
+//	ZERO                    3038
+//	count                   303A
+//	one                     3040
+//	zero                    303E
